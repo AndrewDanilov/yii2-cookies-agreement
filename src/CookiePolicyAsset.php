@@ -1,6 +1,6 @@
 <?php
 
-namespace andrewdanilov\CookiesAgreement\assets;
+namespace andrewdanilov\CookiesAgreement;
 
 use yii\web\AssetBundle;
 

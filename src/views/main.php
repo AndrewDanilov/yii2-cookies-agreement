@@ -1,6 +1,6 @@
 <?php
 
-use andrewdanilov\CookiesAgreement\assets\CookiesAgreementAsset;
+use andrewdanilov\CookiesAgreement\CookiesAgreementAsset;
 
 /* @var $this \yii\web\View */
 /* @var $policyUrl string */
