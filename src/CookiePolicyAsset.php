@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class CookiesAgreementAsset extends AssetBundle
 {
-	public $sourcePath = '@vendor/andrewdanilov/CookiesAgreement/src/web';
+	public $sourcePath = '@andrewdanilov/CookiesAgreement/web';
 	public $css = [
 		'css/cookie-policy.css',
 	];
