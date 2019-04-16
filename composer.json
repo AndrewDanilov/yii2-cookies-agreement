@@ -1,8 +1,8 @@
 {
     "name": "andrewdanilov/yii2-cookies-agreement",
     "description": "Sticky footer panel widget, which lets your visitors to accept user policy agreement.",
-    "type": "library",
-    "keywords": ["php","cookies","policy","agreement"],
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","cookies","policy","agreement"],
     "license": "MIT",
     "authors": [
         {
