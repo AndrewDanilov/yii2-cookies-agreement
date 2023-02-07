@@ -4,7 +4,7 @@ namespace andrewdanilov\CookiesAgreement;
 
 use yii\base\Widget;
 
-class CookiesPanel extends Widget
+class CookiesAgreement extends Widget
 {
 	public $policyUrl;
 
