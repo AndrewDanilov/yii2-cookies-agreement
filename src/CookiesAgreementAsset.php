@@ -11,6 +11,7 @@ class CookiesAgreementAsset extends AssetBundle
 		'css/cookie-policy.css',
 	];
 	public $js = [
+		'js/jquery.cookie.js?v1.4.1',
 		'js/cookie-policy.js',
 	];
 	public $depends = [
